@@ -1,2 +1,12 @@
-# BezierCurve
-ç®€æ˜“çš„äº¤äº’å¼ç»˜åˆ¶è´å¡å°”æ›²çº¿ç¨‹åºï¼Œå¯æ‹¼æ¥ï¼Œå¯æ‹–åŠ¨ã€‚
+# ¼òÒ×±´Èû¶ûÇúÏß»æÖÆ³ÌĞò
+»æÖÆ:
+
+![image](https://github.com/RedIce007/BezierCurve/blob/main/gif/Create.gif)
+
+ÍÏ¶¯:
+
+![image](https://github.com/RedIce007/BezierCurve/blob/main/gif/Change.gif)
+
+Æ´½Ó:
+
+![image](https://github.com/RedIce007/BezierCurve/blob/main/gif/Splice.gif)
